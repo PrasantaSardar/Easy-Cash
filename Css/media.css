@@ -1,0 +1,559 @@
+@media (min-width: 200px) and (max-width:376px) {
+    .upper-cont, .money-protection,.online-business, .online-business2, .money-container{
+        flex-direction: column;
+    }
+    nav{
+        display: none;
+    }
+    .text-box h2{
+        font-size: 33px;
+        margin-left: 0;
+        line-height: 40px;
+    }
+    .text-box{
+        left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .text-box p {
+        text-align: center;
+        margin-top: 0px;
+        margin-left: 0px;
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .text-box .ban-btn {
+        width: 200px;
+        margin-left: 0px;
+        margin-top: 16px;
+        cursor: pointer;
+        color: #fff;
+        padding: 7px 0px;
+        font-size: 20px;
+        font-weight: 300;
+    }
+    .owl-carousel.owl-drag .owl-item{
+        height: 50vh;
+    }
+    .owl-carousel .owl-item img{
+        height: 50vh;
+    }
+    .online-business{
+        height: auto;
+    }
+    .online-business .box1{
+        width: 80%;
+    }
+    .money-container{
+        height: auto;
+    }
+    .left-box{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .text-boxlft h2{
+        font-size: 23px;
+    }
+    .text-boxlft p{
+        font-size: 15px;
+    }
+    .right-box {
+    width: 100%;
+    height: auto;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 30px;
+    }
+    .money-tree{
+        height: auto;
+    }
+    .layer2 h2{
+        font-size: 30px;
+    }
+    .layer2 p{
+        font-size: 16px;
+        padding: 0px 40px;
+    }
+    .online-business2{
+        height: auto;
+        padding-left: 0;
+    }
+    .online-business2 .box2{
+        width: 80%;
+        height: auto;
+    }
+    .money-protection{
+        height: auto;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .money-box{
+        width: 100%;
+    }
+    .layer2 h2{
+        padding-top: 27px;
+    }
+    .layer2 p{
+        line-height: 25px;
+        margin-top: 10px;
+    }
+    .layer2 button {
+        font-size: 16px;
+        color: #fff;
+        width: 140px;
+        margin: auto;
+        margin-top: 30px;
+        height: 40px;
+        
+    }
+    .banner2 .layer2 {
+        text-align: center;
+    }
+    .footer{
+        height: auto;
+        text-align: center;
+    }
+    .upper-cont{
+        height: auto;
+    }
+    .boxa{
+        width: auto;
+    }
+    .box{
+        width: auto;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 479px) {
+    .upper-cont, .money-protection,.online-business, .online-business2, .money-container{
+        flex-direction: column;
+    }
+    nav{
+        display: none;
+    }
+    .text-box h2{
+        font-size: 33px;
+        margin-left: 0;
+        line-height: 40px;
+    }
+    .text-box{
+        left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .text-box p {
+        text-align: center;
+        margin-top: 0px;
+        margin-left: 0px;
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .text-box .ban-btn {
+        width: 200px;
+        margin-left: 0px;
+        margin-top: 16px;
+        cursor: pointer;
+        color: #fff;
+        padding: 7px 0px;
+        font-size: 20px;
+        font-weight: 300;
+    }
+    .owl-carousel.owl-drag .owl-item{
+        height: 50vh;
+    }
+    .owl-carousel .owl-item img{
+        height: 50vh;
+    }
+    .online-business{
+        height: auto;
+    }
+    .online-business .box1{
+        width: 80%;
+    }
+    .money-container{
+        height: auto;
+    }
+    .left-box{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .text-boxlft h2{
+        font-size: 23px;
+    }
+    .text-boxlft p{
+        font-size: 15px;
+    }
+    .right-box {
+    width: 100%;
+    height: auto;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 30px;
+    }
+    .money-tree{
+        height: auto;
+    }
+    .layer2 h2{
+        font-size: 30px;
+    }
+    .layer2 p{
+        font-size: 16px;
+        padding: 0px 40px;
+    }
+    .online-business2{
+        height: auto;
+        padding-left: 0;
+    }
+    .online-business2 .box2{
+        width: 80%;
+        height: auto;
+    }
+    .money-protection{
+        height: auto;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .money-box{
+        width: 100%;
+    }
+    .layer2 h2{
+        padding-top: 27px;
+    }
+    .layer2 p{
+        line-height: 25px;
+        margin-top: 10px;
+    }
+    .layer2 button {
+        font-size: 16px;
+        color: #fff;
+        width: 140px;
+        margin: auto;
+        margin-top: 30px;
+        height: 40px;
+        
+    }
+    .banner2 .layer2 {
+        text-align: center;
+    }
+    .footer{
+        height: auto;
+        text-align: center;
+    }
+    .upper-cont{
+        height: auto;
+    }
+    .boxa{
+        width: auto;
+    }
+    .box{
+        width: auto;
+    }
+    .layer2 h2 {
+        padding-top: 110px;
+    }
+}
+
+@media (min-width: 479px) and (max-width: 579px) {
+    .upper-cont, .money-protection,.online-business, .online-business2, .money-container{
+        flex-direction: column;
+    }
+    nav{
+        display: none;
+    }
+    .text-box h2{
+        font-size: 47px;
+        margin-top: 20px;
+        margin-left: 0;
+        line-height: 40px;
+    }
+    .text-box{
+        left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .text-box p {
+        text-align: center;
+        margin-top: 0px;
+        margin-left: 0px;
+        font-size: 16px;
+        line-height: 17px;
+    }
+    .text-box .ban-btn {
+        width: 200px;
+        margin-left: 0px;
+        margin-top: 16px;
+        cursor: pointer;
+        color: #fff;
+        padding: 7px 0px;
+        font-size: 20px;
+        font-weight: 300;
+    }
+    .owl-carousel.owl-drag .owl-item{
+        height: 50vh;
+    }
+    .owl-carousel .owl-item img{
+        height: 50vh;
+    }
+    .online-business{
+        height: auto;
+    }
+    .online-business .box1{
+        width: 80%;
+    }
+    .money-container{
+        height: auto;
+    }
+    .left-box{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .text-boxlft h2{
+        font-size: 23px;
+    }
+    .text-boxlft p{
+        font-size: 15px;
+    }
+    .right-box {
+    width: 100%;
+    height: auto;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 30px;
+    }
+    .money-tree{
+        height: auto;
+    }
+    .layer2 h2{
+        font-size: 30px;
+    }
+    .layer2 p{
+        font-size: 16px;
+        padding: 0px 40px;
+    }
+    .online-business2{
+        height: auto;
+        padding-left: 0;
+    }
+    .online-business2 .box2{
+        width: 80%;
+        height: auto;
+    }
+    .money-protection{
+        height: auto;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .money-box{
+        width: 100%;
+    }
+    .layer2 h2{
+        padding-top: 27px;
+    }
+    .layer2 p{
+        line-height: 25px;
+        margin-top: 10px;
+    }
+    .layer2 button {
+        font-size: 16px;
+        color: #fff;
+        width: 140px;
+        margin: auto;
+        margin-top: 30px;
+        height: 40px;
+        
+    }
+    .banner2 .layer2 {
+        text-align: center;
+    }
+    .footer{
+        height: auto;
+        text-align: center;
+    }
+    .upper-cont{
+        height: auto;
+    }
+    .boxa{
+        width: auto;
+    }
+    .box{
+        width: auto;
+    }
+    .layer2 h2 {
+        padding-top: 110px;
+    }
+    .money-box .upper{
+        height: 90%;
+    }
+    .money-box{
+        height: auto;
+        margin-bottom: 30px;
+    }
+}
+
+@media (min-width: 579px) and (max-width: 768px) {
+    .upper-cont, .money-protection,.online-business, .online-business2, .money-container{
+        flex-direction: column;
+    }
+    nav{
+        display: none;
+    }
+    .text-box h2{
+        font-size: 65px;
+        margin-top: 40px;
+        margin-left: 0;
+        line-height: 70px;
+    }
+    .text-box{
+        left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .text-box p {
+        text-align: center;
+        margin-top: 0px;
+        margin-left: 0px;
+        font-size: 19px;
+        line-height: 28px;
+    }
+    .text-box .ban-btn {
+        width: 200px;
+        margin-left: 0px;
+        margin-top: 16px;
+        cursor: pointer;
+        color: #fff;
+        padding: 15px 0px;
+        font-size: 20px;
+        font-weight: 300;
+    }
+    .owl-carousel.owl-drag .owl-item{
+        height: 80vh;
+    }
+    .owl-carousel .owl-item img{
+        height: 80vh;
+    }
+    .online-business{
+        height: auto;
+    }
+    .online-business .box1{
+        width: 80%;
+    }
+    .money-container{
+        height: auto;
+    }
+    .left-box{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .text-boxlft h2{
+        font-size: 33px;
+    }
+    .text-boxlft p{
+        font-size: 17px;
+    }
+    .online-business .box1 {
+        padding: 45px;
+    }
+    .left-box p{
+        margin-bottom: 15px;
+        line-height: 30px;
+    }
+    .left-box h3{
+        font-size: 35px;
+    }
+    .right-box {
+    width: 100%;
+    height: auto;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 30px;
+    }
+    .money-tree{
+        height: auto;
+    }
+    .layer2 h2{
+        font-size: 40px;
+    }
+    .layer2 p{
+        font-size: 18px;
+        padding: 0px 40px;
+    }
+    .online-business2{
+        height: auto;
+        padding-left: 0;
+    }
+    .online-business2 .box2{
+        width: 80%;
+        height: auto;
+    }
+    .money-protection{
+        height: auto;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .money-box{
+        width: 100%;
+    }
+    .layer2 h2{
+        padding-top: 27px;
+    }
+    .layer2 p{
+        line-height: 25px;
+        margin-top: 10px;
+    }
+    .layer2 button {
+        font-size: 18px;
+        color: #fff;
+        width: 170px;
+        margin: auto;
+        margin-top: 30px;
+        height: 55px;
+        
+    }
+    .box1 h3{
+        font-size: 30px;
+    }
+    .online-business .box1 p{
+        font-size: 17px;
+    }
+    .online-business2 .box2 i{
+        margin-left: 0;
+    }
+    .online-business2 .box2{
+        padding: 50px;
+    }
+    .box2 h3{
+        font-size: 30px;
+    }
+    .online-business2 .box2 p{
+        font-size: 17px;
+    }
+    .banner2 .layer2 {
+        text-align: center;
+    }
+    .footer{
+        height: auto;
+        text-align: center;
+    }
+    .upper-cont{
+        height: auto;
+    }
+    .boxa{
+        width: auto;
+    }
+    .box{
+        width: auto;
+    }
+    .layer2 h2 {
+        padding-top: 110px;
+    }
+    .money-box .upper{
+        height: 90%;
+    }
+    .money-box{
+        height: auto;
+        margin-bottom: 30px;
+    }
+    .money-protection{
+        gap: 0;
+    }
+}
