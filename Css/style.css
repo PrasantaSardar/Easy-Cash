@@ -404,7 +404,7 @@ h3 {
 
 .footer-box {
   width: 100%;
-  height: 4vh;
+  height: auto;
 }
 .footer-box p {
   text-align: center;
